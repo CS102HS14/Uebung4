@@ -175,6 +175,9 @@ Renner Diego - DiegoRenner
 Rölli Thomas - Abrahma
 
 Rieser Denise - DRieser
+
+Rümmele Yannick - yannick-r
+
 ## S
 Schmid Calvin - Cinval
 
