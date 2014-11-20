@@ -110,6 +110,7 @@ Hüssy Pascal - huepas00
 
 ## J
 Jehle Martin MarJehUni
+
 ## K
 Krummenacher Marco - Krummenacher
 
@@ -120,6 +121,8 @@ Käser Silvan - kaesers
 Kizildere Ilhan - jaymaster6
 
 Kral Luisa - luisa01
+
+Kress Charlotte - chark95
 
 Kübler Jasmin - JasminKu
 
