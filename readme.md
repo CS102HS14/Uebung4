@@ -88,6 +88,8 @@ Kübler Jasmin - JasminKu
 
 ## L
 
+Landolt Severin - sevlan
+
 Leu Marco - marco-leu
 
 ## M
