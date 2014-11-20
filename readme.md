@@ -125,6 +125,8 @@ Looser Kevin - Chewae
 
 Mangold Dominik - mandom01
 
+Mazare -IoanaMazare
+
 Meyer Cyrill - meycyr00
 
 Meyer Marco - marcomeyer0
