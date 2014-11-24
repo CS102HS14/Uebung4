@@ -128,6 +128,8 @@ Kübler Jasmin - JasminKu
 
 Kopyto Christian - chrikop
 
+Karli Tamas - superrecord
+
 ## L
 
 Landolt Severin - sevlan
