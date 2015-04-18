@@ -202,6 +202,8 @@ Steindel Tim - TimSt1
 
 Schwaiger Reto - schwaig
 
+Schweigler Bercoy - isagom
+
 Svab Simon - ssvag
 
 Sakenov Renat - renat1sakenov
